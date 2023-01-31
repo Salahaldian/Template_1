@@ -1,2 +1,2 @@
 # Template_1
-Template 1 (Html , CSS , JS)
+Template 1 (Html , CSS)
